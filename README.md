@@ -8,9 +8,9 @@
 
 ## Tech Stack
 
-**Client :** Vuejs 3, TailwindCss
+**[Client :](https://github.com/GKillianCode/AtelierDuBois___Frontend)** Vuejs 3, TailwindCss
 
-**Server :** PHP, Symfony
+**[Server :](https://github.com/GKillianCode/AtelierDuBois___Backend)** PHP, Symfony
 
 ## Fonctionnalités
 
